@@ -146,14 +146,6 @@ Accident management platform focused on workflow and issue handling.
 
 ---
 
-## 🔹 Portfolio Website
-
-Personal portfolio project to showcase work and learning journey.
-
-`React` · `GitHub Pages`
-
----
-
 ## 🔹 Upcoming Projects
 
 Currently building personal projects focused on:
