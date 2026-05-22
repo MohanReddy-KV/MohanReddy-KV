@@ -54,52 +54,6 @@ Currently focused on becoming a stronger backend and cloud engineer by improving
 * database optimization
 * scalable application development
 
----
-
-# ❯ Experience
-
-## 🚘 Volvo Cars Projects @ HCLTech
-
-### SCOT
-
-Dealer, buyer, and seller management application built using .NET Core and SQL Server.
-
-Worked on:
-
-* backend API development
-* business logic implementation
-* debugging and production fixes
-* database operations
-* API integrations
-* minor React UI changes
-
-### Hugin
-
-Accident management application for Volvo Cars.
-
-Contributed to:
-
-* feature enhancements
-* backend development
-* issue resolution
-* SQL query handling
-* testing and maintenance activities
-
----
-
-# ❯ Current Focus
-
-```yaml
-backend:        .NET Core Web APIs
-frontend:       React.js fundamentals
-database:       SQL Server + PostgreSQL
-architecture:   scalable backend systems
-cloud:          Azure + AWS learning path
-containers:     Docker fundamentals
-goal:           become a strong full-stack/cloud engineer
-```
-
----
 
 # ❯ Tech Stack
 
@@ -125,36 +79,6 @@ goal:           become a strong full-stack/cloud engineer
 
 <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white" />
 <img src="https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white" />
-
----
-
-# ❯ Projects
-
-## 🔹 SCOT
-
-Enterprise dealer and seller management system for Volvo Cars.
-
-`ASP.NET Core` · `SQL Server` · `React`
-
----
-
-## 🔹 Hugin
-
-Accident management platform focused on workflow and issue handling.
-
-`ASP.NET Core` · `SQL Server`
-
----
-
-## 🔹 Upcoming Projects
-
-Currently building personal projects focused on:
-
-* REST APIs
-* authentication systems
-* Dockerized applications
-* PostgreSQL integration
-* full-stack .NET + React architecture
 
 ---
 
