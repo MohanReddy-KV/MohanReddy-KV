@@ -1,129 +1,57 @@
-<!-- ════════ HERO BANNER ════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Mohan%20Reddy%20Kalluri&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=.NET%20Developer%20%E2%80%A2%20Backend%20Systems%20%E2%80%A2%20React%20%E2%80%A2%20SQL&descSize=18&descAlignY=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Mohan%20Reddy%20Kalluri&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20.NET%20%E2%80%A2%20React%20%E2%80%A2%20SQL%20Server&descSize=18&descAlignY=62" />
 </div>
 
-<!-- ════════ LINKS ════════ -->
 <p align="center">
   <a href="https://www.linkedin.com/in/mohan-reddy-k-v-b6237a1a8/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
-  <a href="mailto:kallurim50@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="https://github.com/MohanReddy-KV">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
-
-  <a href="https://github.com/MohanReddy-Kalluri">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-
-  <img src="https://komarev.com/ghpvc/?username=MohanReddy-Kalluri&color=2196F3&style=flat-square&label=Visitors" />
 </p>
 
----
+## Hi, I’m Mohan 👋
 
-```bash
-$ whoami
+I’m a software engineer focused on building reliable web applications with **ASP.NET Core, C#, SQL Server, and React**.
 
-> mohan_reddy_kalluri
-> backend-focused .NET developer
-> building APIs, databases, integrations, and scalable applications
-> learning cloud-native engineering one system at a time
-````
+I enjoy working across the application stack—turning business requirements into clean APIs, practical database solutions, and user-friendly interfaces.
 
-# ❯ About Me
+## What I work with
 
-I enjoy understanding how systems work underneath the surface.
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,react,javascript,html,css,git,github,visualstudio,vscode" alt="Technology icons" />
+</p>
 
-Most of my experience comes from building and maintaining enterprise applications using .NET Core, SQL Server, and React — solving problems around APIs, business workflows, data handling, debugging, and application reliability.
+- **Backend:** ASP.NET Core, C#, Web APIs  
+- **Frontend:** React, JavaScript, HTML, CSS  
+- **Database:** SQL Server  
+- **Tools:** Git, GitHub, Visual Studio  
+- **Currently developing:** Azure and cloud application practices  
 
-I like the engineering side of software:
+## Featured Project
 
-* designing APIs
-* improving backend logic
-* optimizing queries
-* fixing production issues
-* understanding architecture
-* connecting frontend and backend systems cleanly
+### [DoConnect](https://github.com/MohanReddy-KV/DoConnect)
 
-Currently focused on becoming a stronger backend and cloud engineer by improving my skills in:
+A full-stack application repository demonstrating my work with application development, backend logic, data handling, and frontend integration.
 
-* system design
-* Docker
-* cloud platforms
-* database optimization
-* scalable application development
+[View the project →](https://github.com/MohanReddy-KV/DoConnect)
 
+## Engineering interests
 
-# ❯ Tech Stack
+- Designing maintainable APIs and backend services  
+- Writing clear business logic and reliable data flows  
+- Improving SQL queries and database-backed features  
+- Debugging issues systematically  
+- Building scalable, cloud-ready applications  
 
-## Backend & APIs
+## Connect
 
-<img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs" />
-
-## Frontend
-
-<img src="https://skillicons.dev/icons?i=react,javascript,html,css" />
-
-## Databases
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
-
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-
-## Cloud, DevOps & Tools
-
-<img src="https://skillicons.dev/icons?i=azure,aws,docker,git,github,linux,vscode,visualstudio" />
-
-## Automation & Productivity
-
-<img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white" />
-<img src="https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white" />
-
----
-
-# ❯ GitHub Activity
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohanReddy-Kalluri&theme=github_dark" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohanReddy-Kalluri&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MohanReddy-Kalluri&theme=github_dark" />
-</div>
-
----
-
-# ❯ Principles
-
-> Build things properly.
-
-> Understand the system, not just the task.
-
-> Debugging teaches more than tutorials.
-
-> Consistency beats intensity.
-
-> Clean backend logic matters.
-
----
-
-# ❯ Connect
-
-<p align="left">
+<p>
   <a href="https://www.linkedin.com/in/mohan-reddy-k-v-b6237a1a8/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="mailto:kallurim50@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
 </p>
-
----
-
-<!-- ════════ FOOTER ════════ -->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" />
